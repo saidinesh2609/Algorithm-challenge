@@ -28,8 +28,8 @@ else:
     print("No permutation of the digits in", integer_string, "is divisible by 7.")
 ```
 
-`Output`
-The average between the smallest and largest permutation divisible by 7 is: 5152.0
+## Output
+```The average between the smallest and largest permutation divisible by 7 is: 5152.0```
 
 
 
