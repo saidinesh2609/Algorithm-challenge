@@ -27,5 +27,5 @@ for runner in runners:
 
 print("The distance of the winning runner after 1234 seconds:", winning_distance, "m")
 
-```Output```
+## Output
 The distance of the winning runner after 1234 seconds 3540m
