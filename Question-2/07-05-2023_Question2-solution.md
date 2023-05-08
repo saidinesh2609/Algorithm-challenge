@@ -1,3 +1,4 @@
+## Code
 ```
 runners = [
     {'name': 'John', 'speed': 10, 'run_time': 6, 'rest_time': 20},
@@ -30,4 +31,4 @@ print("The distance of the winning runner after 1234 seconds:", winning_distance
 ```
 
 ## Output
-The distance of the winning runner after 1234 seconds 3540m
+```The distance of the winning runner after 1234 seconds 3540m```
