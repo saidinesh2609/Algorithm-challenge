@@ -1,3 +1,4 @@
+```
 runners = [
     {'name': 'John', 'speed': 10, 'run_time': 6, 'rest_time': 20},
     {'name': 'James', 'speed': 8, 'run_time': 8, 'rest_time': 25},
@@ -26,6 +27,7 @@ for runner in runners:
         winning_distance = distance
 
 print("The distance of the winning runner after 1234 seconds:", winning_distance, "m")
+```
 
 ## Output
 The distance of the winning runner after 1234 seconds 3540m
