@@ -1,3 +1,4 @@
+## Code
 ```
 from itertools import permutations
 
